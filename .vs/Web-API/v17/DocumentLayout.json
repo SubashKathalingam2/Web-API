@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\SUBASH\\Web-API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|e:\\subash\\web-api\\web-api\\dal\\dbmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|solutionrelative:web-api\\dal\\dbmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|e:\\subash\\web-api\\web-api\\dal\\dalemployeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|solutionrelative:web-api\\dal\\dalemployeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|e:\\subash\\web-api\\web-api\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|solutionrelative:web-api\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|e:\\subash\\web-api\\web-api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EB8D4A-AE9E-4918-A1F5-BF615CE1D8A0}|Web-API\\Web-API.csproj|solutionrelative:web-api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbMapper.cs",
+              "DocumentMoniker": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dbMapper.cs",
+              "RelativeDocumentMoniker": "Web-API\\DAL\\dbMapper.cs",
+              "ToolTip": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dbMapper.cs",
+              "RelativeToolTip": "Web-API\\DAL\\dbMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:16:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbhelper.cs",
+              "DocumentMoniker": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dbhelper.cs",
+              "RelativeDocumentMoniker": "Web-API\\DAL\\dbhelper.cs",
+              "ToolTip": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dbhelper.cs",
+              "RelativeToolTip": "Web-API\\DAL\\dbhelper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:31:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dalEmployeeMaster.cs",
+              "DocumentMoniker": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dalEmployeeMaster.cs",
+              "RelativeDocumentMoniker": "Web-API\\DAL\\dalEmployeeMaster.cs",
+              "ToolTip": "E:\\SUBASH\\Web-API\\Web-API\\DAL\\dalEmployeeMaster.cs",
+              "RelativeToolTip": "Web-API\\DAL\\dalEmployeeMaster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:28:29.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "E:\\SUBASH\\Web-API\\Web-API\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "Web-API\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "E:\\SUBASH\\Web-API\\Web-API\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "Web-API\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:57.319Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
